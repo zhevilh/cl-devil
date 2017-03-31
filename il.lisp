@@ -150,7 +150,8 @@
   (:image-offy #x0DFC)
   (:image-cubeflags #x0DFD)
   (:image-origin #x0DFE)
-  (:image-channels #x0DFF))
+  (:image-channels #x0DFF)
+  (:jpg-quality #x0711))
 
 (defcenum origin
   (:origin-lower-left #x0601)
